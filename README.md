@@ -5,11 +5,11 @@ This project automates the creation of short-form content by scraping subreddits
 ## Setup
 
 1. Clone the repository to your local machine.
-2. Create a custom `.env` file in the root cloned file path with the following template:
+2. Create a custom `.env` file in the root cloned file path with the following template (you can find out how to get these values in the reddit developer documentation):
 
 ```
-SECRET={}
-PERSONAL_USE={}
+SECRET=REPLACE_HERE
+PERSONAL_USE=REPLACE_HERE
 ```
 
 ## Usage
