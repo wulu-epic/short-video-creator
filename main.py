@@ -12,11 +12,11 @@ class Main(object):
     def run(self):
         posts = self.scraper.scrape("shortstories")
         if not posts:
-            print('[-] Failed to gather posts please try again later')
+            print('[-] Failed to gather posts please try again later ')
             return
         
         print(f'[+] Gathered {len(posts.items())} posts.')
-        
+
         post_speaker = speaker.PostSpeaker(posts, self.voice, self.scraper)
         post_speaker.speak_all_posts()
 
