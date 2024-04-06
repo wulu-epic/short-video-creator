@@ -1,6 +1,6 @@
-# Automatic Short Form Content Video Creator (asFCVC 🔥)
+# Automatic Short Form Content Video Creator (W.I.P)
 
-This project automates the creation of short-form content by scraping subreddits, synthesizing audio using Google Text-to-Speech (gTTS), and rendering videos with template background videos and subtitles.
+This project automates the creation of short-form content by scraping subreddits, synthesizing audio using Google Text-to-Speech (gTTS), and rendering videos with template background videos and subtitles. Keep in mind that this project is still a work-in-progress and things will likely change in the near future and might not function as intended as of right now.
 
 ## Setup
 
