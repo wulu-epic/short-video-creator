@@ -1,0 +1,3 @@
+praw
+gtts
+python-dotenv
